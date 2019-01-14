@@ -24,6 +24,11 @@ class ComposerStaticInitf23697682e1045fc46eeccca9d5d869b
         array (
             'Symfony\\Polyfill\\Ctype\\' => 23,
         ),
+        'E' => 
+        array (
+            'EasyShop\\tests\\' => 15,
+            'EasyShop\\' => 9,
+        ),
         'D' => 
         array (
             'Doctrine\\Instantiator\\' => 22,
@@ -45,6 +50,14 @@ class ComposerStaticInitf23697682e1045fc46eeccca9d5d869b
         'Symfony\\Polyfill\\Ctype\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
+        ),
+        'EasyShop\\tests\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/tests',
+        ),
+        'EasyShop\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/Apps/easyshop',
         ),
         'Doctrine\\Instantiator\\' => 
         array (

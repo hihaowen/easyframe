@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Controller\Api;
+namespace EasyShop\Controller\Api;
 
 use Core\Libs\HttpResponse;
 
